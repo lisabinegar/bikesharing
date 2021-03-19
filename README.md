@@ -1,5 +1,5 @@
 # Title
-[https://public.tableau.com/profile/lisa.binegar#!/vizhome/Challenge14_16160880366850/BikeSharingDatainNYCStory]
+[Link to dashboard] (https://public.tableau.com/profile/lisa.binegar#!/vizhome/Challenge14_16160880366850/BikeSharingDatainNYCStory)
 
 ## Statistical Analysis Overview
 
